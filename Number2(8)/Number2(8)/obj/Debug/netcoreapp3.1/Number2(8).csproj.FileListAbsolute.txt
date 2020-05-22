@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\bin\Debug\netcoreapp3.1\Number2(8).exe
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\bin\Debug\netcoreapp3.1\Number2(8).deps.json
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\bin\Debug\netcoreapp3.1\Number2(8).runtimeconfig.json
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\bin\Debug\netcoreapp3.1\Number2(8).runtimeconfig.dev.json
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\bin\Debug\netcoreapp3.1\Number2(8).dll
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\bin\Debug\netcoreapp3.1\Number2(8).pdb
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\obj\Debug\netcoreapp3.1\Number2(8).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\obj\Debug\netcoreapp3.1\Number2(8).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\obj\Debug\netcoreapp3.1\Number2(8).AssemblyInfo.cs
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\obj\Debug\netcoreapp3.1\Number2(8).dll
+C:\Users\USER\source\repos\Number2(8)\Number2(8)\obj\Debug\netcoreapp3.1\Number2(8).pdb
